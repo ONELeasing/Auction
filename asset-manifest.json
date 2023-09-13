@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/Auction/static/js/main.076ee003.js",
+    "main.js": "/Auction/static/js/main.5400737b.js",
     "static/media/one-logo-round.png": "/Auction/static/media/one-logo-round.5465c53357f670640be1.png",
     "index.html": "/Auction/index.html",
-    "main.076ee003.js.map": "/Auction/static/js/main.076ee003.js.map"
+    "main.5400737b.js.map": "/Auction/static/js/main.5400737b.js.map"
   },
   "entrypoints": [
-    "static/js/main.076ee003.js"
+    "static/js/main.5400737b.js"
   ]
 }
