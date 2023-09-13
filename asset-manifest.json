@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/static/js/main.83c593bc.js",
+    "static/media/one-logo-round.png": "/static/media/one-logo-round.5465c53357f670640be1.png",
+    "index.html": "/index.html",
+    "main.83c593bc.js.map": "/static/js/main.83c593bc.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.83c593bc.js"
+  ]
+}
